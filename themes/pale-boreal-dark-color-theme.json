@@ -103,6 +103,7 @@
 		"statusBar.debuggingForeground": "#0E0D17",
 		"statusBar.foreground": "#adacae",
 		"statusBar.noFolderBackground": "#E693D6",
+		"statusBar.noFolderForeground": "#fff",
 		"statusBarItem.activeBackground": "#7DCDE1",
 		"tab.activeBackground": "#0E0D1700",
 		"tab.activeBorderTop": "#7DCDE1",
