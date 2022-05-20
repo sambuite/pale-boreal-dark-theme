@@ -1,0 +1,21 @@
+{
+    "name": "pale-boreal-dark-theme",
+    "displayName": "Pale Boreal Dark ",
+    "description": "A beautiful and cool dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pale Boreal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pale-boreal-dark-color-theme.json"
+            }
+        ]
+    }
+}
