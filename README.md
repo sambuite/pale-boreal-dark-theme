@@ -1,6 +1,15 @@
-# Pale Boreal Dark Theme
+<p align="center">
+    <img src="./logo.png" alt="Logo">
 
-A dark theme with pale beautiful colors
+  <h2 align="center">Pale Boreal Dark Theme</h3>
+</p>
+
+
+<br>
+
+### A dark theme with pale beautiful colors
+
+<br>
 
 ## :camera: Demo
 
@@ -11,5 +20,9 @@ A dark theme with pale beautiful colors
 <p align="center">
   <img align="center" src=".github/02.png" border="0">
 </p>
+
+## Contact
+
+[Portfolio](https://murilosambuite.com) - **murilosambuite@gmail.com**
 
 **Enjoy!**
