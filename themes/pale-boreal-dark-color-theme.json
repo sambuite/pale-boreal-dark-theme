@@ -63,11 +63,11 @@
 		"errorForeground": "#E27E8B",
 		"focusBorder": "#a394f033",
 		"foreground": "#edecee",
-		"gitDecoration.conflictingResourceForeground": "#7DCDE1",
+		"gitDecoration.conflictingResourceForeground": "#e94f37",
 		"gitDecoration.deletedResourceForeground": "#E27E8B",
 		"gitDecoration.ignoredResourceForeground": "#4d4d4d",
 		"gitDecoration.modifiedResourceForeground": "#E2B37E",
-		"gitDecoration.untrackedResourceForeground": "#E693D6",
+		"gitDecoration.untrackedResourceForeground": "#7DCDE1",
 		"input.background": "#0E0D17",
 		"input.border": "#3b334b",
 		"input.foreground": "#cdccce",
@@ -258,7 +258,8 @@
 		{
 			"scope": [
 				"entity.name.function",
-				"support.function"
+				"support.function",
+				"entity.name.variable.parameter.cs",
 			],
 			"settings": {
 				"foreground": "#E693D6"
