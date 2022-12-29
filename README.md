@@ -7,7 +7,7 @@
 
 <br>
 
-### A dark theme with pale beautiful colors
+### A dark theme with pale colors
 
 <br>
 
